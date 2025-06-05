@@ -67,9 +67,11 @@
 
 ## 🧩 Fun Facts
 
-- 🌟 Building chatbots that feel truly human is my passion!
-- 🏆 Always ready for a new AI/ML challenge
-- 📦 Open to collaboration on open-source AI projects
+<h2 align="center">⚡ Fun Interactive</h2>
+
+<div align="center">
+  <img src="https://github.com/mdzohaer/mdzohaer/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
 
 ---
 
