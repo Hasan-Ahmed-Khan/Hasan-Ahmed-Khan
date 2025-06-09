@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=01B5A7&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Pythonista+%7C+Chatbot+Enthusiast;AI+%26+ML+Explorer+with+Real+World+Experience" alt="Typing SVG" />
 </p>
 
----
-
-<div align="center">
-  <img src="https://github.com/Hasan-Ahmed-Khan/Hasan-Ahmed-Khan/blob/main/assets/ai_engineer.gif" alt="AI Engineer" width="220"/>
-</div>
-
----
-
 ## 🚀 About Me
 
 - 🎯 **AI Engineer** passionate about building intelligent systems
