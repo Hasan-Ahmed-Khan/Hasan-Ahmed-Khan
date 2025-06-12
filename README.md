@@ -1,84 +1,53 @@
-<!-- README.md for Hasan-Ahmed-Khan -->
-<!-- Dark theme with dark blue (#2563EB) and purple (#8B5CF6) accents -->
-
+<!-- GitHub Profile README for Hasan-Ahmed-Khan -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Ahmed-Khan
-    &show_icons=true
-    &theme=dark
-    &bg_color=0d1117
-    &title_color=8B5CF6
-    &icon_color=2563EB"
-    alt="Hasan's GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5,1E293B&height=200&section=header&text=Hi,%20I'm%20Hasan%20Ahmed%20Khan!&fontColor=FFFFFF&fontSize=40&animation=twinkling" alt="header" />
 </p>
 
----
-
-<h3 align="center">Hi, I’m Hasan Ahmed Khan 👋</h3>
 <p align="center">
-  <a href="https://github.com/Hasan-Ahmed-Khan">
-    <img src="https://img.shields.io/github/followers/Hasan-Ahmed-Khan
-      ?label=Follow
-      &style=flat
-      &color=8B5CF6
-      &logo=github"
-      alt="GitHub Follow" />
-  </a>
-  <a href="https://twitter.com/hasan_ahmed">
-    <img src="https://img.shields.io/twitter/follow/hasan_ahmed
-      ?label=Twitter
-      &style=flat
-      &color=2563EB
-      &logo=twitter"
-      alt="Twitter Follow" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Enthusiast;Minimalist+by+Design" alt="Typing SVG" />
 </p>
 
----
-
-### 💼 About Me
-- 🔭 I’m currently working on _[Project Name]_  
-- 🌱 I’m learning **[Your Focus]**  
-- 💬 Ask me about **JavaScript**, **Python**, **DevOps**  
-
----
-
-### 🛠️ Languages & Tools
-
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Code%20with%20Passion-1E293B?style=for-the-badge&logo=github&logoColor=7C3AED&color=1E293B&labelColor=4F46E5" />
 </p>
 
----
+<div align="center" style="background: #1e293b; border-radius: 12px; padding: 24px; color: #fff; max-width: 650px; margin: auto;">
+  
+  <h3 align="center" style="color: #7c3aed;">👋 About Me</h3>
+  <p align="center" style="color: #d1d5db;">
+    💻 I build things for the web & beyond.<br>
+    🌓 Minimalist, dark-theme lover.<br>
+    🌌 Exploring code, one project at a time.
+  </p>
 
+  <h3 align="center" style="color: #7c3aed;">🛠 Tech Stack</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,go,git,linux" alt="Tech stack" />
+  </p>
+
+  <h3 align="center" style="color: #7c3aed;">📫 Connect</h3>
+  <p align="center">
+    <a href="https://github.com/Hasan-Ahmed-Khan" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=4F46E5" />
+    </a>
+    <a href="mailto:hasan.ahmed.khan@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=7C3AED" />
+    </a>
+  </p>
+</div>
+
+<!-- Dynamic GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs
-    ?username=Hasan-Ahmed-Khan
-    &layout=compact
-    &theme=dark
-    &bg_color=0d1117
-    &title_color=8B5CF6"
-    alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Ahmed-Khan&show_icons=true&hide_border=true&bg_color=1e293b&title_color=7c3aed&icon_color=4f46e5&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
----
-
-### 📫 Get in Touch
 <p align="center">
-  <a href="mailto:hasan.ahmed@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/hasan-ahmed-khan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Ahmed-Khan&theme=github-dark-blue&hide_border=true&background=1e293b&ring=7c3aed&fire=4f46e5&currStreakLabel=7c3aed" alt="GitHub Streak" />
 </p>
 
----
-
 <p align="center">
-  📄&nbsp;<a href="#-about-me">About Me</a>&nbsp;|&nbsp;
-  📊&nbsp;<a href="#-languages--tools">Languages & Tools</a>&nbsp;|&nbsp;
-  📫&nbsp;<a href="#-get-in-touch">Contact</a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Hasan-Ahmed-Khan&bg_color=1e293b&color=7c3aed&line=4f46e5&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
+<!-- Footer -->
+<p align="center" style="color: #4F46E5;">✨ Minimal. Dynamic. Dark. ✨</p>
