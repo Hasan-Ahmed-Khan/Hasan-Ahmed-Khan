@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=410&lines=GenAI+%7C+Finetuning+%7C+RAG+%7C+Lambda+Functions;Data+Analysis+%7C+MLOps+%7C+APIs+%7C+Automation;React+%7C+Flask+%7C+Streamlit+%7C+Minimalist" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alumni+Sans+Pinstripe&weight=900&size=30&duration=3000&pause=1000&color=7C3AEDF0&center=true&vCenter=true&width=435&lines=Vibe+Coder" alt="Typing SVG" /></a>
+  
 </p>
 
 ---
@@ -13,15 +14,24 @@
 ### 👨‍💻 About Me
 
 `GenAI` · `Finetuning` · `RAG` · `Data Analysis`  
-`Minimalist` | `Dark-Theme` | `Automating Ideas`
+`Minimalist` | `Innovative` | `Automating Ideas`
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,genai,lambda,postman,mongodb,firebase,react,flask,streamlit,vercel,sql,java,cpp,c&perline=15" alt="Tech Stack" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="38"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="38"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="38"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="38"/>
+  <img src="https://skillicons.dev/icons?i=react" height="38"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="38"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="38"/>
+  <img src="https://skillicons.dev/icons?i=java" height="38"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="38"/>
+  <img src="https://skillicons.dev/icons?i=c" height="38"/>
+</p>
 
 <table align="center" width="100%" style="background: #1e2235; border-radius: 8px; margin: 12px 0;">
 <tr>
@@ -65,7 +75,7 @@
 
 <p align="center" style="margin:0;">
   <img src="https://github-readme-stats.vercel.app/api?username=Hasan-Ahmed-Khan&show_icons=true&hide_border=true&bg_color=1e2235&title_color=7c3aed&icon_color=4f46e5&text_color=ffffff&custom_title=Hasan's%20GitHub%20Stats" width="350"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Ahmed-Khan&theme=github-dark-blue&hide_border=true&background=1e2235&ring=7c3aed&fire=4f46e5&currStreakLabel=7c3aed" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Ahmed-Khan&theme=github-dark-blue&hide_border=true&background=1e2235&ring=7c3aed&fire=4f46e5&currStreakLabel=7c3aed" width="370"/>
 </p>
 
 ---
@@ -75,10 +85,12 @@
 <a href="mailto:hasan.ahmed.khan@example.com">
   <img src="https://img.shields.io/badge/Email-232946?style=flat-square&logo=gmail&logoColor=7C3AED" />
 </a>
-<a href="https://github.com/Hasan-Ahmed-Khan">
-  <img src="https://img.shields.io/badge/GitHub-232946?style=flat-square&logo=github&logoColor=4F46E5" />
+<a href="https://linkedin.com/in/hasan-ahmed-khan">
+  <img src="https://img.shields.io/badge/LinkedIn-232946?style=flat-square&logo=linkedin&logoColor=4F46E5" />
+</a>
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <img src="https://img.shields.io/badge/Discord-232946?style=flat-square&logo=discord&logoColor=7C3AED" />
 </a>
 
 </div>
 
-<p align="center" style="color: #4F46E5;"><i>Dark. Dynamic. Minimal. Built with 💜</i></p>
