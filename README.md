@@ -82,13 +82,13 @@
 
 ### 🌐 Connect
 
-<a href="mailto:hasan.ahmed.khan@example.com">
+<a href="mailto:hasankhan0814@gmail.com">
   <img src="https://img.shields.io/badge/Email-232946?style=flat-square&logo=gmail&logoColor=7C3AED" />
 </a>
-<a href="https://linkedin.com/in/hasan-ahmed-khan">
+<a href="https://in.linkedin.com/in/hasan-ahmed-khan-679a2513b">
   <img src="https://img.shields.io/badge/LinkedIn-232946?style=flat-square&logo=linkedin&logoColor=4F46E5" />
 </a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<a href="https://discord.com/users/funblue1">
   <img src="https://img.shields.io/badge/Discord-232946?style=flat-square&logo=discord&logoColor=7C3AED" />
 </a>
 
