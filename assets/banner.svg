@@ -16,7 +16,7 @@
   <rect width="1000" height="140" fill="url(#bg)"/>
   <rect width="1000" height="140" fill="url(#squares)"/>
   <rect width="1000" height="140" fill="url(#zigzag)"/>
-  <text x="50%" y="75" dominant-baseline="middle" text-anchor="middle" font-size="50" fill="#2a916a" font-family="Fira Code, monospace" font-weight="900" letter-spacing="2">
+  <text x="50%" y="75" dominant-baseline="middle" text-anchor="middle" font-size="50" fill="#31912a" font-family="Fira Code, monospace" font-weight="900" letter-spacing="2">
     Hasan Ahmed Khan
   </text>
 </svg>
