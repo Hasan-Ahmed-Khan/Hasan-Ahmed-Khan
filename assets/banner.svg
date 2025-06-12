@@ -16,10 +16,7 @@
   <rect width="1000" height="140" fill="url(#bg)"/>
   <rect width="1000" height="140" fill="url(#squares)"/>
   <rect width="1000" height="140" fill="url(#zigzag)"/>
-  <text x="50%" y="62" dominant-baseline="middle" text-anchor="middle" font-size="38" fill="#F3F4F6" font-family="Fira Code, monospace" font-weight="700" letter-spacing="2">
+  <text x="50%" y="75" dominant-baseline="middle" text-anchor="middle" font-size="50" fill="#2a916a" font-family="Fira Code, monospace" font-weight="900" letter-spacing="2">
     Hasan Ahmed Khan
-  </text>
-  <text x="50%" y="96" dominant-baseline="middle" text-anchor="middle" font-size="18" fill="#A3A3A3" font-family="Fira Code, monospace" font-weight="500">
-    GenAI | Lambda | Data | React | Minimalist
   </text>
 </svg>
