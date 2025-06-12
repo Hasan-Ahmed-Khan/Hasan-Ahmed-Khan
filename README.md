@@ -1,19 +1,5 @@
-<!-- GitHub Profile README for Hasan-Ahmed-Khan -->
-
 <p align="center">
-  <!-- Very dark banner, black base, with subtle geometric squares and zig-zag SVG overlay, crisp text -->
-  <div style="position:relative;display:inline-block;width:100%;max-width:1000px;">
-    <img 
-      src="https://capsule-render.vercel.app/api?type=rect&color=1e2235,232946,232946,1e2235&height=130&section=header&text=Hasan%20Ahmed%20Khan&fontColor=F3F4F6&fontSize=36&desc=GenAI%20%7C%20Lambda%20%7C%20Data%20%7C%20React%20%7C%20Minimalist&descAlign=50&descAlignY=70&animation=fadeIn"
-      alt="banner"
-      style="border-radius:10px;max-width:100%;position:relative;z-index:1;"
-    />
-    <img 
-      src="https://raw.githubusercontent.com/Hasan-Ahmed-Khan/assets/main/banner-pattern.svg"
-      alt="pattern"
-      style="position:absolute;top:0;left:0;width:100%;height:100%;opacity:0.13;z-index:2;pointer-events:none;"
-    />
-  </div>
+  <img src="assets/banner.svg" alt="Hasan Ahmed Khan Banner" style="max-width:100%;border-radius:10px;" />
 </p>
 
 <p align="center">
