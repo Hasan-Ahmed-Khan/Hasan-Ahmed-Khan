@@ -90,7 +90,7 @@ Skilled in scalable microservices, AI-powered automation pipelines, and cloud-na
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hasan-Ahmed-Khan&theme=github-dark-blue&hide_border=true&background=1e2235&ring=7c3aed&fire=4f46e5&currStreakLabel=7c3aed&cache_seconds=1800" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hasan-Ahmed-Khan&theme=github-dark-blue&hide_border=true&background=1e2235&ring=7c3aed&fire=4f46e5&currStreakLabel=7c3aed&cache_seconds=1800" width="70%"/>
 </p>
 
 </div>
